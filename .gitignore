@@ -1,18 +1,12 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+{
+	"magisk": {
+		"version": "24.3",
+		"versionCode": "24300",
+		"link": "https://gitee.com/Her4c/magiskupdate/raw/master/24.3/app-release.apk",
+		"note": "https://gitee.com/Her4c/magiskupdate/raw/master/README.md"
+	},
+	"stub": {
+		"versionCode": "27",
+		"link": "https://gitee.com/Her4c/magiskupdate/raw/master/24.3/app-release.apk"
+	}
+}
